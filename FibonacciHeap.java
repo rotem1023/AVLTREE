@@ -4,8 +4,6 @@
  * An implementation of fibonacci heap over integers.
  */
 
-//rotem nizhar -208646984 -rotemnizhar
-// tom sabag -208845842 - tomsabag
 
 public class FibonacciHeap
 {
